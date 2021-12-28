@@ -2,6 +2,7 @@
   "name": "portfolio-vuepress",
   "scripts": {
     "build": "vuepress build portfolio",
+    "docs:build": "vuepress build docs",
     "develop": "vuepress dev portfolio"
   },
   "author": "Nichlas W. Andersen",
