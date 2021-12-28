@@ -1,4 +1,21 @@
 ---
 label: red
 hide_body: false
-fields: []
+fields:
+- name: test
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: test
+  description: edrdaskjdh
+- name: ascsdcsdc
+  type: color
+  label: ascsdcsdc
+  config:
+    required: false
+    color_format: Hex
+  description: sdcasdcsd
